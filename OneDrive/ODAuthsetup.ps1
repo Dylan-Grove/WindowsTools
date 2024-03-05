@@ -1,1 +1,0 @@
-﻿Get-ODAuthentication -RedirectURI http://localhost/login  -clientID 3b05db26-b596-4263-be4-b9bdac70784 -AppKey "dtyCTWH644{?$=bnmaG30"
