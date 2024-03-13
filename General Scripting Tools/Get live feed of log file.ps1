@@ -1,0 +1,1 @@
+get-content -wait C:\CBH-IT\Scripts\Logs\log.txt
